@@ -13,7 +13,7 @@ Dell OPtiplex 755
      
 5. Install Budgie-Desktop dependencies.
 	
-     $sudo apt-get install accountsservice libdbus-glib2.0-cil libglib2.0-dev gnome-bluetooth gnome gir1.2-glib-2.0 gobject-introspection libgtk2.0 ibus libpulse-devlibupower-glib-dev uuid valac gtk-doc-tools
+     $sudo apt-get install accountsservice libdbus-glib2.0-cil libglib2.0-dev gnome-bluetooth gnome gir1.2-glib-2.0 gobject-introspection libgtk2.0 ibus libpulse-devlibupower-glib-dev uuid valac gtk-doc-tools curl
 
 6. Install Mono complete and fsharp
 
