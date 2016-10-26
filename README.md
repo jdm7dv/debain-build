@@ -23,6 +23,8 @@ Dell OPtiplex 755
 
      $bash <(curl -fsSL git.io/getdeepdive)
 
+     export PATH=~/local/bin:"$PATH"
+
 
 
  
