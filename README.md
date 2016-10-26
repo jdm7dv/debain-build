@@ -25,6 +25,14 @@ Dell OPtiplex 755
 
      export PATH=~/local/bin:"$PATH"
 
+8. Set Network Manager to Managed
+
+	managed=true in /etc/NetworkManager/NetworkManager.conf
+	$sudo /etc/init.d/network-manager restart
+
+	reboot
+9.
+
 
 
  
