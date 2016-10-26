@@ -31,7 +31,9 @@ Dell OPtiplex 755
 	$sudo /etc/init.d/network-manager restart
 
 	reboot
-9.
+9. Install Menedley Desktop
+
+	https://www.mendeley.com/download-mendeley-desktop/debian/instructions/
 
 
 
